@@ -1,0 +1,47 @@
+# Visual Studio specific
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+*.cache
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.log
+*.sdf
+*.opensdf
+*.tlog
+
+# NuGet Packages
+packages/
+*.nupkg
+# Uncomment if you have a NuGet package cache
+# .nuget/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Publish
+publish/
+app.publish/
+*.deploy
+*.zip
+
+# Debugging
+*.tlog
+*.lastcodeanalysissucceeded
+TestResults/
+
+# Misc
+*.tmp
+*.bak
